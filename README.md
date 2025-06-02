@@ -1,5 +1,11 @@
-# Computer Vison Framework
+# BlackVision: Computer Vison Framework
 A built-in computer vision framework developed for [K.E.N.D.R.A.H-RA1018](https://github.com/BCICDIS/K.E.N.D.R.A.H-RA1018), designed to support real-time object detection, screen capture analysis, and camera-based recognition using modular integrations in C, Ada, and Python. This framework provides the core visual processing capabilities for operator dashboards, system monitoring, and intelligent vision-assisted automation.
+
+![BlackVision - Computer Vision Framework](https://img.shields.io/badge/BlackVision-Computer%20Vision%20Framework-black?style=for-the-badge&logo=eye&logoColor=white)
+![Owner](https://img.shields.io/badge/Owner-Black%20Corp%20Intelligence-blue?style=flat-square)
+![License](https://img.shields.io/badge/License-Proprietary-red?style=flat-square)
+![Category](https://img.shields.io/badge/Category-Computer%20Vision-green?style=flat-square)
+
 
 # Diagram
 ```mermaid
