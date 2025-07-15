@@ -152,3 +152,7 @@ flowchart TB
     classDef cui fill:#f0ccff,stroke:#800080
     classDef external fill:#e2e3e5,stroke:#6c757d
 ```
+
+# Gallery
+
+<img width="100%" src="https://github.com/BCICDIS/computer-vision-rfm/blob/main/public/assets/503545633_716997007364740_7221455571397298733_n.jpg"/>
